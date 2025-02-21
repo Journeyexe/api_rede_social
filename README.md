@@ -104,4 +104,3 @@ Contribuições são bem-vindas! Por favor, leia as diretrizes de contribuição
 
 ## 🤝 Suporte
 Em caso de dúvidas ou problemas, abra uma issue no repositório ou entre em contato com a equipe de desenvolvimento.
-# api_rede_social
