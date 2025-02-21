@@ -31,10 +31,10 @@ spring.data.mongodb.database=nome_do_banco
 ### Instalação
 ```bash
 # Clone o repositório
-git clone https://github.com/Journeyexe/api
+git clone https://github.com/Journeyexe/api_rede_social
 
 # Entre no diretório
-cd api
+cd api_rede_social
 
 # Instale as dependências
 mvn install
